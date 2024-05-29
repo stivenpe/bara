@@ -1,0 +1,35 @@
+.bara{
+     display: flex;
+     background-color: rgb(204, 219, 219);
+     justify-content:space-around ;
+     height: 2vw;
+}
+.ttt{
+     display: flex;
+}  
+
+.iman {
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+padding: 1vw;
+}
+
+.iman2 {
+flex-basis: calc(33.33% - 20px);
+margin-bottom: 2vw;
+box-sizing: border-box;
+}
+
+.featured-article img {
+margin: 1vh;    
+max-width: 100%;
+height: auto;
+display: block;
+margin-bottom: 1vw;
+}
+
+.featured-article h2 {
+font-size: 18px;
+margin: 0;
+}
